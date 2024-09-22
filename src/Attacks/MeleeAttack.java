@@ -6,8 +6,6 @@ import Characters.RPGCharacter;
  * Concrete implementation of Melee Attacks, that is physical attacks. MeleeAttack should consume energy
  *
  * NOTE: This class will not compile until the takeDamage method is implemented.
- *
- * @author Juliano Franz
  */
 public class MeleeAttack extends Attack {
 
