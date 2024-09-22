@@ -4,8 +4,6 @@ import Characters.RPGCharacter;
 /**
  * Concrete implementation of the HealingSpell.
  * NOTE: This class will not complie until you have the heal method implemented on RPG character
- *
- * @author Juliano Franz
  */
 public class HealingSpell extends Spell {
 
