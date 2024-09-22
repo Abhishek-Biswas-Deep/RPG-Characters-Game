@@ -4,8 +4,6 @@ import Characters.RPGCharacter;
 /**
  * Represent Spell attacks. Spells are used primarily by casters and they cost mana.
  * PLEASE NOTE: This class will not compile until you create the RPGCharacter class
- *
- * @author Juliano Franz
  */
 public abstract class Spell extends Attack {
 
