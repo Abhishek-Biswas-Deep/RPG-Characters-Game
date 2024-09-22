@@ -8,7 +8,6 @@ import Characters.RPGCharacter;
  *
  * NOTE: This class depends on the implementation of heal method.
  *
- * @author Juliano
  */
 public class Resurrection extends HealingSpell {
     /**
