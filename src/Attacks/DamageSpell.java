@@ -3,8 +3,6 @@ import Characters.RPGCharacter;
 
 /**
  * Concrete implementation of Damage Spells, that it, spells that deal damage
- *
- * @author Juliano Franz
  */
 public class DamageSpell extends Spell{
 
