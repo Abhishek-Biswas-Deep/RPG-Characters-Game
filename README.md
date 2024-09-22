@@ -61,6 +61,7 @@ Healing restores lost HP, but the character cannot exceed their maximum HP.
 - Navigate to that project
 - Compile and run the game in your preferred IDE (like IntelliJ).
 
-#### Demo: https://drive.google.com/file/d/1Bwm5XLqP_gdoH1TsQ8wXYvUFdX_QdWE3/view?usp=sharing
+#### Demo: 
+https://drive.google.com/file/d/1Bwm5XLqP_gdoH1TsQ8wXYvUFdX_QdWE3/view?usp=sharing
 
 
